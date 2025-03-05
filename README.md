@@ -1,0 +1,2 @@
+# primermiza
+Prvi repozitorij
